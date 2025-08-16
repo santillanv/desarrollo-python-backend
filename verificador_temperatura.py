@@ -1,4 +1,4 @@
-temp = float(input("Ingresa la tempreratura de hoy: "))
+temp = float(input("Ingresa la temperatura de hoy: "))
 
 if temp < 10:
     print("El día de hoy esta frío")
