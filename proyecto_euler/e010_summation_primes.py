@@ -1,5 +1,5 @@
 ## Plataforma: Project Euler 
-## Problem 10: 
+## Problem 10: Summation of Primes 
 ## Fecha: 20/08/2025
 
 ###### Problem
